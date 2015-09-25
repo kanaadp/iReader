@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, IReaderActivity!</string>
+    <string name="app_name">IReader</string>
+    <string name="use_image_button">Use Image!</string>
+    <string name="Use_Image_On_Click">onClick</string>
+    <string name="imageselecttextview">Select an image!</string>
+    <string name="Preview_Button_Text">Preview Image</string>
+    <string name="Preview_Method">onPreviewClick</string>
+    <string name="ocr_full_image">OCR Full Image</string>
+    <string name="Find_Paragraphs_Button">Find Paragraphs</string>
+    <string name="Concat_Strings_Button">Concatenate OCRed Text</string>
+    <string name="gotosettings">toSettings</string>
+    <string name="settingsString">Settings</string>
+    <string name="languagestring">OCR Language</string>
+    <string-array name="Languages">
+        <item >English</item>
+        <item >French</item>
+    </string-array>
+        <string name="gotoaboutme">toAbout</string>
+        <string name="savebutton">Save!</string>
+        <string name="savebuttononclick">save</string>
+        <string name="ocrFullFunction">ocrFull</string>
+        <string name="seperateparagraphsonclick">separateParagraphs</string>
+        <string name="Speakbutton">Speak!</string>
+        <string name="speakbutton">speakClick</string>
+
+</resources>
